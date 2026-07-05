@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+"Full code showcasing mapping of the singular controller. Forward and Inverse kinematics features are shown below. "
+"This was made and finalised June 8th 2026 by Sitor Sla with the usage of Anthropic's Claude and OpenAI's ChatGPT. "
+
 import time
 import numpy as np
 import rospy
