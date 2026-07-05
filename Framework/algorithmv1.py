@@ -5,7 +5,10 @@ Author: Christiaan Peppelman
 Reviewed by: Fardien Azizi
 Created: 12 may 2026
 
-[]. The outputs of each session will be stored in a seperate session folder.
+This algorithm finds the newest bag file, peforms a data quality check, synchronizes the data and then converts it into te zarr file and bag file.
+The bag file conversion is solely for validation via Rviz and can be omitted.
+To better suit your specifiec application the thressholds for the blurr and brightness in the data quality check can be modified.
+The outputs of each session will be stored in a seperate session folder.
 
 AI contribution: LLM were used in development of this algorith. All outputs were thoroughly reviewd before implementation.
 """
