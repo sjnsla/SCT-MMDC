@@ -1,4 +1,3 @@
-# BEP2026-single-controller-teleop-mmdc
 # Single-Controller Teleoperation and Multimodal Dataset Generation for a Mobile Manipulator
 
 Welcome to the official repository for the research project **"Single-Controller Teleoperation and Multimodal Dataset Generation for a Mobile Manipulator"** conducted at the Department of Cognitive Robotics, TU Delft.
