@@ -60,7 +60,7 @@ This repository uses a dual-license model.
 
 ### Source code
 
-All source code is licensed under the Apache License 2.0.
+All source code is licensed under the MIT License.
 See the `LICENSE` file for details.
 
 ### Dataset and media
