@@ -54,6 +54,34 @@ The framework addresses the challenges of fragmented teleoperation interfaces an
 
 ---
 
+## Authors
+
+This project was conducted at the Dept. of Cognitive Robotics, TU Delft, and the RoPeRt Group, University of Zaragoza[cite: 1].
+
+* **Fardien Azizi***[cite: 1]
+* **Sitor Sla***[cite: 1]
+* **Christiaan Peppelman***[cite: 1]
+* **Dion van Santen***[cite: 1]
+* **Andrei-Carlo Papuc**[cite: 1]
+* **Khaled Mustafa**[cite: 1]
+* **Diego Martinez-Baselga**[cite: 1]
+* **Javier Alonso-Mora**[cite: 1]
+
+*\*Denotes equal contribution*[cite: 1].
+
+---
+
+## Acknowledgements
+
+This work was supported by the following grants and institutions:
+
+* Grant PID2022-139615OB-I00 funded by MICIU/AEI/10.13039/501100011033 and ERDF/EU[cite: 1].
+* The Aragon Government/FSE-T45_23R[cite: 1].
+* The Dutch Research Council NWO-NWA, within the "Acting under uncertainty" (ACT) project (Grant No. NWA. 1292.19.298)[cite: 1].
+* The Office of Naval Research Global (ONRG) under Grant N62909-25-12027 (Project SECURE)[cite: 1].
+
+---
+
 ## License
 
 This repository uses a dual-license model.
