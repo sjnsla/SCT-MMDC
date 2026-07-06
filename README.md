@@ -54,4 +54,17 @@ The framework addresses the challenges of fragmented teleoperation interfaces an
 
 ---
 
-#
+## License
+
+This repository uses a dual-license model.
+
+### Source code
+
+All source code is licensed under the Apache License 2.0.
+See the `LICENSE` file for details.
+
+### Dataset and media
+
+Videos, images, annotations, and other dataset materials are licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0), unless stated otherwise.
+
+See `LICENSE-DATA` for details.
